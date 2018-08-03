@@ -1,0 +1,18 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.ele{
+    padding: 5px;
+    border: black solid 1px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px #CCCCCC ;
+    float: left;
+}
+img {
+    width: 288px;
+}
+#big{
+    position: relative;
+}
